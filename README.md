@@ -39,7 +39,7 @@ The Power BI project is based on two primary datasets: car specifications and sa
 ## Dashboard Preview
 ![Car Data set](https://github.com/Niharika-yadav/Car-market-analysis-pbi/assets/160738276/ebbc81e7-36d7-4118-95b6-b1c26c7dc25b)
 
-[Download the video]("C:\Users\DELL\Desktop\Ducat\Power BI\Projects\Car data set\Demo Power BI Project - Made with Clipchamp.mp4")
+[video]("C:\Users\DELL\Desktop\Ducat\Power BI\Projects\Car data set\Demo Power BI Project - Made with Clipchamp.mp4")
 
 
 ## Conclusion
