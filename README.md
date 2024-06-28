@@ -39,5 +39,8 @@ The Power BI project is based on two primary datasets: car specifications and sa
 ## Dashboard Preview
 ![Car Data set](https://github.com/Niharika-yadav/Car-market-analysis-pbi/assets/160738276/ebbc81e7-36d7-4118-95b6-b1c26c7dc25b)
 
+[Download the video]("C:\Users\DELL\Desktop\Ducat\Power BI\Projects\Car data set\Demo Power BI Project - Made with Clipchamp.mp4")
+
+
 ## Conclusion
 The Power BI project leverages these datasets to create interactive and insightful dashboards. These dashboards help stakeholders understand the automotive market's dynamics, including sales performance, revenue generation, market share, and trends over time. By providing a detailed view of key metrics, the project supports data-driven decision-making and strategic planning in the automotive industry.
